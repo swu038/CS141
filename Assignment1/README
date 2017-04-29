@@ -1,0 +1,5 @@
+The program takes in 1 command line, which is the input file. 
+The program will write the min to an output file, and output to the terminal the time it took to run the program. 
+In order to run brute force algorithm, uncomment lines 93-96, and comment out lines 88-91. 
+In order to run divide and conquer algorithm, comment out lines 93-96, and uncomment lines 88-91.
+Also the code is prior python 3.0.
